@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e80237a-d280-4a33-ba93-99251e1dfa1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/demo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/cg/demo1/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/cg/demo1/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/webapp/WEB-INF/application-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/webapp/WEB-INF/views/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/cg/demo2/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/cg/demo2/configuration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/cg/demo2/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/webapp/WEB-INF/views/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/src/main/java/com/cg/demothymeleafconfig/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/src/main/java/com/cg/demothymeleafconfig/configuration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/src/main/java/com/cg/demothymeleafconfig/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoThymeLeafConfig/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/beans/ConfigBeans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/beans/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/beans/xml/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/beans/xml/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/injection/constructor/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/injection/constructor/SpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/injection/constructor/TextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/injection/field/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/injection/field/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/injection/field/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/injection/field/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/injection/field/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/injection/setter/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/injection/setter/Clazz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/java/com/codegym/injection/setter/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/resources/constructor-injection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/resources/developer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/resources/field-injection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson01-spring-bean-injection/src/main/resources/setter-injection.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-intro2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cg/thbook/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cg/thbook/configuration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cg/thbook/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cg/thbook/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cg/thbook/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cg/thbook/service/IBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thcustomer/src/main/java/com/cg/thcustomer/configuration/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thcustomer/src/main/java/com/cg/thcustomer/configuration/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thcustomer/src/main/java/com/cg/thcustomer/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thcustomer/src/main/java/com/cg/thcustomer/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thcustomer/src/main/java/com/cg/thcustomer/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thcustomer/src/main/java/com/cg/thcustomer/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thcustomer/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thcustomer/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thcustomer/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thcustomer/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thcustomer/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thcustomer/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-servlet-jsp-jstl-jdbc-mvc/src/main/java/com/codegym/connection/JDBCConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-servlet-jsp-jstl-jdbc-mvc/src/main/java/com/codegym/connection/JDBCConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc-intro2/src/main/java/com/springmvcintro2/controller/InputProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc-intro2/src/main/java/com/springmvcintro2/controller/InputProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc-intro2/src/main/java/controller/InputProductController.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IykxKhkDNnGkblF09UVbpTldgO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "spring.configuration.checksum": "1c739520ad4a328480ee38e600d36c81"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.69" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.69" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Gradle : com.cg : thbook-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Gradle___com_cg___thbook_1_0_SNAPSHOT_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ecfb1a13-4210-42a2-bd46-90635d7cfb7a" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.cg : thbook-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e80237a-d280-4a33-ba93-99251e1dfa1b" name="Changes" comment="" />
+      <created>1671161458728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671161458728</updated>
+      <workItem from="1671161460579" duration="4055000" />
+      <workItem from="1671169164175" duration="758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
